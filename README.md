@@ -13,6 +13,8 @@
 - [Chinese Blog] 彻底搞懂机器学习里的L1与L2正则化 [[Link](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247511692&idx=3&sn=39d4fca8b6783b9b74e4f4832b37fab2&chksm=ec1c4375db6bca63465473f7f0bfab4af2da5a5fc3dfffcb7417608476d7d3180ce1a466701a&mpshare=1&scene=1&srcid=1023Z71QgBa72sUP0gvwedWe&sharer_sharetime=1603416661884&sharer_shareid=fd8c7684b39b2eac07b5e0c63bf1346a&key=9aff5afafa6fca8d5774cc6f68ae8692d98c11211db07dcda0b67b5dcb9a53c890a7649c082c499002cbee32485fb98f9041a00bdb2ab08f4d611a9cc3c9632599a201d4bf4b64fdae53596b96627e5de659ba9832b7b5a4a106f56a071d08526c089acf6b614043332ef6dedda75a32bb629e44d7e04741698c33f025b01d9f&ascene=1&uin=Mjg1Mzg0ODMzMA%3D%3D&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=Ae0drvjIG7uGlYsmigJUFH4%3D&pass_ticket=qp6dW60bJ2CUrvoxYSHea6AaqaqDMG8%2FoEUMCswn%2FqEOUGhIdg1gpdhSK6LerXDw&wx_header=0)]
 - [Chinese Blog] 传统CV和深度学习方法的比较 [[Link](https://mp.weixin.qq.com/s/H7qRN20mLfs21ZXFLfxeiA)]
 - [Chinese Blog] 【源头活水】经典重温：CVPR 2010 "What is an object?" [[Link](https://mp.weixin.qq.com/s/C983RJwOvHQKQm2Pr7-k0A)]
+- [Chinese Blog] 【强推】这可能是国内最优质的海量数据集获取网站 [[Link](https://mp.weixin.qq.com/s/xVSKxfOpFKE3CFCYaavxSw)]
+- [Chinese Blog] 图像标注：揭秘自动驾驶、面部识别背后的“眼睛” [[Link](https://mp.weixin.qq.com/s/lZG9qQcdULiV5mwT4WyDqA)]
 
 
 
