@@ -15,7 +15,7 @@
 - [Chinese Blog] 【源头活水】经典重温：CVPR 2010 "What is an object?" [[Link](https://mp.weixin.qq.com/s/C983RJwOvHQKQm2Pr7-k0A)]
 - [Chinese Blog] 【强推】这可能是国内最优质的海量数据集获取网站 [[Link](https://mp.weixin.qq.com/s/xVSKxfOpFKE3CFCYaavxSw)]
 - [Chinese Blog] 图像标注：揭秘自动驾驶、面部识别背后的“眼睛” [[Link](https://mp.weixin.qq.com/s/lZG9qQcdULiV5mwT4WyDqA)]
-
+- [Chinese Blog] 2020年机器视觉行业深度报告 [[Link](https://mp.weixin.qq.com/s/7BSq5ZGTz7lZWkPQxXDqqg)]
 
 
 
