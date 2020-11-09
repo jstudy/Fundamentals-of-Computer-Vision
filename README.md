@@ -17,6 +17,6 @@
 - [Chinese Blog] 图像标注：揭秘自动驾驶、面部识别背后的“眼睛” [[Link](https://mp.weixin.qq.com/s/lZG9qQcdULiV5mwT4WyDqA)]
 - [Chinese Blog] 2020年机器视觉行业深度报告 [[Link](https://mp.weixin.qq.com/s/7BSq5ZGTz7lZWkPQxXDqqg)]
 - [Chinese Blog] 轻量级网络/检测/分割综述 [[Link](https://mp.weixin.qq.com/s/s6Z8P8bUkyoKU2mW3z-rNQ)]
-
+- [Chinese Blog] 如何简单有效地实现迁移学习？ECCV 2020 论文介绍 [[Link](https://mp.weixin.qq.com/s/DzVE2dMWJBiadhB0bG29sw)]
 
 
