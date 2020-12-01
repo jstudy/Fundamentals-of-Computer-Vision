@@ -18,5 +18,6 @@
 - [Chinese Blog] 2020年机器视觉行业深度报告 [[Link](https://mp.weixin.qq.com/s/7BSq5ZGTz7lZWkPQxXDqqg)]
 - [Chinese Blog] 轻量级网络/检测/分割综述 [[Link](https://mp.weixin.qq.com/s/s6Z8P8bUkyoKU2mW3z-rNQ)]
 - [Chinese Blog] 如何简单有效地实现迁移学习？ECCV 2020 论文介绍 [[Link](https://mp.weixin.qq.com/s/DzVE2dMWJBiadhB0bG29sw)]
+- [Chinese Blog] CNN：我不是你想的那样 [[Link](https://mp.weixin.qq.com/s/n7NZwvpJ3ma6_Zoguhh8nQ)]
 
 
